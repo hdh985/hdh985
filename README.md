@@ -38,5 +38,6 @@
 - **언어**: Java, Python, C++
 - **프레임워크**: Spring Boot, Django
 - **데이터베이스**: PostgreSQL, MySQL
-- **기타**: Docker, Kubernetes, AWS, Git, GitHub
+- **협업**: Notion, Discord, Git, GitHub
+- **기타**: Docker, Kubernetes, AWS
 
