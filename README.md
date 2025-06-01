@@ -24,7 +24,7 @@
 
 | **프로젝트명**       | **기술 스택**                               | **설명**                                                                 | **링크** |
 |--------------------|------------------------------------------|----------------------------------------------------------------------|---------|
-| **스펙랭킹**       | Java, Spring boot, Mysql, React, Vanila js, FastAPI, Python, LangChain, RAG, GCP, AWS| 취준생을 위한 AI 기반 스펙 분석 랭킹 서비스                                                                             | [링크](https://github.com/MedicinedTime) |
+| **스펙랭킹**       | Java, Spring boot, Mysql, React, Vanila js, FastAPI, Python, LangChain, RAG, GCP, AWS| 취준생을 위한 AI 기반 스펙 분석 랭킹 서비스                                                                             | [링크](https://github.com/100-hours-a-week/19-Respec-WIKI/wiki) |
 | **히어컴퍼니**       | Python, FastAPI, Mysql, React, TypeScript, GCP, AWS                                    | 축제 주점 부스 운영 웹 QR 메뉴판 및 웨이팅 관리자 서비스                                                                        | [링크]() |
 | **프로젝트 3**       |                                        |                                                                                | [링크]() |
 | **프로젝트 4**       |                                        |                                                                                | [링크]() |
