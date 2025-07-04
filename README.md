@@ -6,8 +6,7 @@
 
 현실 문제 해결에 관심이 많고 분야를 넘어 항상 배우고 성장하는 개발자가 되기 위해 꾸준히 노력하고 있습니다! ✨
 
-- 🔭 현재는 **Spring Boot**, **MySql**, **AWS** 등을 활용한 백엔드 시스템 개발에 집중하고 있습니다.  
-- 🌱 **클라우드 인프라**, **DevOps**, **Fintech** 관련 기술을 학습하고 있습니다.  
+- 🔭 현재는 **Spring Boot**, **MySql**, **Kafka** **AWS** 등을 활용한 대규모 데이터 처리 백엔드 시스템 개발에 집중하고 있습니다.  
 - 📫 궁금한 점이나 협업이 필요하다면 언제든지 **hdh985@naver.com** 로 연락 주세요!  
 - 🧑‍💻 제 GitHub에서 다양한 프로젝트를 확인하실 수 있습니다.
 
@@ -33,9 +32,9 @@
 
 ## 📈 **기술 스택**
 
-- **언어**: Java, Python, C++ 
-- **프레임워크**: Spring Boot, FastAPI
+- **언어**: Java, Python 
+- **프레임워크**: Spring Boot
 - **데이터베이스**: MySQL
 - **협업**: Notion, Discord, Git, GitHub
-- **기타**: Docker, Kubernetes, AWS, GCP, Github Action
+- **기타**: Kafka, Docker, AWS, GCP, Github Action
 
